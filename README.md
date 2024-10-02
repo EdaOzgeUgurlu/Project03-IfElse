@@ -2,7 +2,7 @@ Console.Write("Lütfen bir sayı giriniz:");
 
 double number = Convert.ToDouble(Console.ReadLine());
 
-                                                                                                                  Console.Write: Kullanıcıdan sayı girmesini isteyen bir mesaj yazdırır.
+                                                          Console.Write: Kullanıcıdan sayı girmesini isteyen bir mesaj yazdırır.
                                                                                                                 
                                                                                                                                    Console.ReadLine(): Kullanıcının girdiği veriyi alır. 
                                                                                                                                    
